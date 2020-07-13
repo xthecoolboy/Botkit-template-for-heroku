@@ -1,5 +1,6 @@
 {
   "name": "okajax-botkit-template",
+  "stats_optout: true",
   "version": "0.0.1",
   "dependencies": {
     "botkit": "^0.4.0"
